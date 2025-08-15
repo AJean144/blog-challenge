@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "The Rise of Serverless Architectures",
+    "author": "Jane Doe",
+    "publication_date": "2024-01-15",
+    "content": "Serverless computing is rapidly changing the way we build and deploy applications. This post explores the benefits, challenges, and best practices for adopting a serverless-first mindset."
+  },
+  {
+    "id": 2,
+    "title": "A Deep Dive into GraphQL",
+    "author": "John Smith",
+    "publication_date": "2024-02-02",
+    "content": "Tired of over-fetching and under-fetching with REST APIs? GraphQL offers a more efficient and powerful alternative. We'll cover the core concepts, from schemas and queries to mutations and subscriptions."
+  },
+  {
+    "id": 3,
+    "title": "Mastering React Hooks",
+    "author": "Emily White",
+    "publication_date": "2024-02-20",
+    "content": "React Hooks have revolutionized state management and side effects in functional components. This guide provides a comprehensive overview of useState, useEffect, useContext, and custom hooks."
+  },
+  {
+    "id": 4,
+    "title": "The Importance of Web Accessibility",
+    "author": "Michael Green",
+    "publication_date": "2024-03-10",
+    "content": "Building inclusive web experiences is not just a good practice—it's essential. Learn how to make your websites accessible to everyone, covering ARIA roles, semantic HTML, and WCAG guidelines."
+  },
+  {
+    "id": 5,
+    "title": "Getting Started with Docker and Containers",
+    "author": "Samantha Brown",
+    "publication_date": "2024-03-28",
+    "content": "Containerization has become a cornerstone of modern software development. This tutorial will walk you through the basics of Docker, from creating images and running containers to orchestrating with Docker Compose."
+  },
+  {
+    "id": 6,
+    "title": "An Introduction to TypeScript",
+    "author": "David Black",
+    "publication_date": "2024-04-12",
+    "content": "Add static typing to your JavaScript projects with TypeScript. We'll explore how TypeScript can help you catch errors early, improve code quality, and enhance developer productivity."
+  },
+  {
+    "id": 7,
+    "title": "Building a CI/CD Pipeline with GitHub Actions",
+    "author": "Olivia Blue",
+    "publication_date": "2024-04-25",
+    "content": "Automate your development workflow with GitHub Actions. This post will guide you through setting up a continuous integration and continuous deployment (CI/CD) pipeline for your projects."
+  },
+  {
+    "id": 8,
+    "title": "The Future of Frontend Frameworks",
+    "author": "William Gray",
+    "publication_date": "2024-05-05",
+    "content": "From React and Vue to Svelte and Solid, the frontend ecosystem is constantly evolving. We'll discuss the latest trends and what to expect from the next generation of web frameworks."
+  },
+  {
+    "id": 9,
+    "title": "Understanding WebAssembly",
+    "author": "Sophia Red",
+    "publication_date": "2024-05-18",
+    "content": "WebAssembly (Wasm) is bringing near-native performance to the web. Discover what WebAssembly is, how it works, and its potential to revolutionize web development."
+  },
+  {
+    "id": 10,
+    "title": "A Guide to Responsive Design",
+    "author": "James Purple",
+    "publication_date": "2024-06-01",
+    "content": "Ensure your website looks great on any device with responsive design. We'll cover media queries, flexible grids, and fluid images to create seamless user experiences across all screen sizes."
+  },
+  {
+    "id": 11,
+    "title": "Exploring the Jamstack",
+    "author": "Ava Orange",
+    "publication_date": "2024-06-15",
+    "content": "The Jamstack architecture—JavaScript, APIs, and Markup—is a modern way to build fast and secure websites. Learn about its core principles and how to get started with popular static site generators."
+  },
+  {
+    "id": 12,
+    "title": "Cybersecurity Best Practices for Developers",
+    "author": "Noah Indigo",
+    "publication_date": "2024-06-28",
+    "content": "Security is everyone's responsibility. This article outlines essential cybersecurity practices for developers, from preventing SQL injection and XSS to securing authentication and managing dependencies."
+  }
+]
